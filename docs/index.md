@@ -29,7 +29,7 @@ Our ultimate aim is to help researchers:
 5. **Customized Report**:
    - A final, interactive or PDF report that details top differentially expressed genes, potential safety flags, and recommended next steps.
 
-![Pipeline Diagram](pipeline_diagram.png)
+![Pipeline Diagram](gh-pages-Diagram.drawio.png)
   
 
 
