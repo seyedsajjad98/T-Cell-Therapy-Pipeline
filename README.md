@@ -19,7 +19,11 @@ This project outlines a streamlined pipeline to assist T cell therapy researcher
 3. **Predictive Modeling:** Utilize GEARS to simulate transcriptomic changes based on gene perturbations.
 4. **Enrichment Analysis:** Apply DOSE for pathway and disease enrichment analysis on GEARS results.
 5. **Report Generation:** Consolidate findings into a comprehensive, context-rich report tailored to the researcher’s aims.
+
+
 6. ![Pipeline Diagram](https://github.com/seyedsajjad98/T-Cell-Therapy-Pipeline/blob/main/docs/pipeline_diagram.png)
+
+
 
 
 ## Key Components
