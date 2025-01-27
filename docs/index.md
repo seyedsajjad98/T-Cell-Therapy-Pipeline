@@ -23,7 +23,7 @@ Our ultimate aim is to help researchers:
 1. **User Inputs**: Researcher picks T cell therapy goals (e.g., “Increase Infiltration”) and experimental tools (e.g., “CRISPR KO of PDCD1”).
 2. **Gene-Set Compilation**: We leverage T cell–specific databases (like [TCPGdb](http://tcpgdb.sidichenlab.org/), [TISIDB](http://cis.hku.hk/TISIDB/), and [ImmPort](https://www.immport.org/)) to map those goals/tools to relevant genes.
 3. **Predictive Modeling**:
-   - Pass the gene-perturbation inputs to [GEARS](https://github.com/snap-stanford/GEARS) (a CRISPR-based transcriptomic modeling tool).
+   - Pass the gene-perturbation inputs to [GEARS](https://github.com/snap-stanford/GEARS) (A computational tool that models transcriptomic changes in response to user-defined gene perturbations).
 4. **Enrichment Analysis**:
    - Use DOSE or other tools (KEGG, GO) to identify pathways/disease associations from GEARS outputs.
 5. **Customized Report**:
