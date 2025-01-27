@@ -29,7 +29,7 @@ Our ultimate aim is to help researchers:
 5. **Customized Report**:
    - A final, interactive or PDF report that details top differentially expressed genes, potential safety flags, and recommended next steps.
 
-![Pipeline Diagram](../docs/pipeline_diagram.png)  
+![Pipeline Diagram](https://github.com/seyedsajjad98/T-Cell-Therapy-Pipeline/blob/main/docs/pipeline_diagram.png)  
 
 
 ---
