@@ -29,7 +29,8 @@ Our ultimate aim is to help researchers:
 5. **Customized Report**:
    - A final, interactive or PDF report that details top differentially expressed genes, potential safety flags, and recommended next steps.
 
-![Pipeline Diagram](https://github.com/seyedsajjad98/T-Cell-Therapy-Pipeline/blob/main/docs/pipeline_diagram.png)  
+![Pipeline Diagram](pipeline_diagram.png)
+  
 
 
 ---
@@ -67,7 +68,7 @@ Some of the **primary pipeline objectives** include:
 ---
 
 ## Contact & Collaboration
-- **Researcher**: [sajjad haghi] (Master’s Student @ [Ilia State University, Tblisi, Georgia])
+- **Researcher**: Seyedsajjad Haghi, Master’s Student, Ilia State University, Tbilisi, Georgia
 - **Advisor**: Dr. Vinchenzo Lagani 
 - **Email**: [sajjadhaghi1998@gmail.com]  
 - Interested in collaborations? Feel free to open an issue in the [GitHub Repo](https://github.com/seyedsajjad98/T-Cell-Therapy-Pipeline).
